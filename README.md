@@ -14,3 +14,6 @@ How to split the data into train and test data
 How to train the model and evaluate the model
 
 How to do prediction with using test data
+
+Youtube video:
+https://www.youtube.com/watch?v=VLw5foVO6xI&t=485s
